@@ -1,0 +1,12 @@
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\DAL\bin\Debug\DAL.dll.config
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\DAL\bin\Debug\DAL.dll
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\DAL\bin\Debug\DAL.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\DAL\bin\Debug\EntityFramework.dll
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\DAL\bin\Debug\EntityFramework.xml
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\DAL\obj\Debug\DAL.dll
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\DAL\obj\Debug\DAL.pdb

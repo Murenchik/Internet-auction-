@@ -1,0 +1,15 @@
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\Services\bin\Debug\Services.dll
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\Services\bin\Debug\Services.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\Services\bin\Debug\AutoMapper.dll
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\Services\bin\Debug\DAL.dll
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\Services\bin\Debug\EntityFramework.dll
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\Services\bin\Debug\DAL.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\Services\bin\Debug\DAL.dll.config
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\Services\bin\Debug\AutoMapper.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\Services\bin\Debug\AutoMapper.xml
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\Services\bin\Debug\EntityFramework.xml
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\Services\obj\Debug\Services.dll
+C:\Users\denis\OneDrive\Рабочий стол\Internet Auction\Services\obj\Debug\Services.pdb
