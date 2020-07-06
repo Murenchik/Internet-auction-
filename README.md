@@ -1,5 +1,5 @@
 # Internet-auction-
-Web API on platform .NET Entity framewort.
+Web API(ASP.NET) on platform .NET Entity framewort.
 Registered user can add lot and take part; 
 manager confirm lots and holds tenders;
 admin follow for all processes, confirm lots and holds tenders;
